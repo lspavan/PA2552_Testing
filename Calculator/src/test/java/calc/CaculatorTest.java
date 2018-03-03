@@ -29,4 +29,10 @@ public class CaculatorTest {
 		assertEquals(5, calc.add(2,3));
 
 	}
+	
+	@Test
+	public void testAdd3() {
+		assertEquals(5, calc.add(2,3));
+
+	}
 }
