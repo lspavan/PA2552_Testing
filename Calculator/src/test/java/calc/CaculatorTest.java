@@ -37,7 +37,7 @@ public class CaculatorTest {
 	}
 	
 	@Test
-	public void testAdd3() {
+	public void testAdd4() {
 		assertEquals(5, calc.add(2,3));
 
 	}
