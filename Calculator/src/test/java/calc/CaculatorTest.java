@@ -19,9 +19,10 @@ public class CaculatorTest {
 
 	}
 	
+		
 @Test
-	public void testAdd5() {
-		assertEquals(5, calc.add(3,2));
+	public void testAdd6() {
+		assertEquals(6, calc.add(3,3));
 
 	}
 	
